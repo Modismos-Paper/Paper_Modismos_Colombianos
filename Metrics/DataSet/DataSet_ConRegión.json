@@ -1,0 +1,4279 @@
+[
+    {
+        "modismo":"abagó",
+        "significado":"selección de los mejores frutos de la cosecha de maíz, papa u otros productos agrícolas, con los que se suelen obsequiar a los amigos o a los cogedores",
+        "ejemplo":"si yo supiera lo cierto\/cuál jue el que te aconsejó,\/te mandara tus maicitos,\/ aparte del abagó",
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"abanico",
+        "significado":"ventilador eléctrico",
+        "ejemplo":"prende el abanico que hace mucho calor",
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"abanico",
+        "significado":"utensilio rústico, hecho de fibras vegetales entretejidas que forman una pequeña superficie plana, con o sin mango",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Nariño, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"abombado",
+        "significado":"dicho especialmente del agua, que despide mal olor",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"abra",
+        "significado":"terreno desmontado listo para la siembra",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"achicopalar",
+        "significado":"abatir el orgullo o altivez de una persona haciéndole sentir la propia superioridad o fuerza",
+        "ejemplo":"la achicopalaron con tantas críticas",
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"achucutarse",
+        "significado":"acurrucarse",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"agente viajero",
+        "significado":"persona que representa a una empresa y viaja para hacer negocios",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"aguadijiar",
+        "significado":"manar de una herida un humor claro como el agua",
+        "ejemplo":"las niguas tienen la culpa\/ ¡que yo no te vaya a ver! \/ ¡qué demontre de las niguas\/pa'aguadijiar y doler",
+        "región":"Boyacá, Cauca, Cundinamarca, Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"aguadulce",
+        "significado":"bebida que se prepara cocinando la panela en agua",
+        "ejemplo":"ai los tengo castigaos, aunque vino juan con los muchachos: los bajé a aguadulce dende la semana pasada [ .] quitales el cacaíto a los builes es el mejor castigo",
+        "región":"Antioquia, Caldas, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"aguaitar",
+        "significado":"mirar",
+        "ejemplo":"estoy aguaitando a ver si vienen",
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"aguanga",
+        "significado":"telar indígena antiquísimo, posiblemente de procedencia incaica",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"aguanta",
+        "significado":"expresión usada por los pasajeros de un vehículo para que el conductor se detenga",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"ahijuelita",
+        "significado":"expresión que manifiesta sorpresa o desagrado o cualquier impresión repentina",
+        "ejemplo":null,
+        "región":"Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"ajonjolear",
+        "significado":"sacudir, vapulear",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"al que es maletero viejo no le falta qué cargar",
+        "significado":"proverbio con el que se expresa que la persona de experiencia siempre tiene ocupación",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"alabado",
+        "significado":"conjunto de composiciones líricas que se cantan al son de música regional en los velorios",
+        "ejemplo":null,
+        "región":"Costa del Pacífico",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"alborotista",
+        "significado":"persona dada a ocasionar ruido, desorden, disturbios",
+        "ejemplo":null,
+        "región":"Nariño, Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"alcayata",
+        "significado":"cada uno de los dos ganchos metálicos de los que se amarran los lazos para colgar una hamaca",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"alcayata",
+        "significado":"cada uno de los cuatro soportes para apoyar las andas en que van los pasos al parar las procesiones",
+        "ejemplo":null,
+        "región":"Bolívar, Nariño, Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"alcayata",
+        "significado":"repisa donde se coloca la vela",
+        "ejemplo":"la vela en el candilero, \/ l'alcayata en la paré;\/señores, los bailadores: \/los músicos tienen sé",
+        "región":"Antioquia, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"alcayata",
+        "significado":"repisa para sostener matas del jardín",
+        "ejemplo":null,
+        "región":"Antioquia, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"alcuza",
+        "significado":"vasija de varios materiales, de forma esférica, cuello largo, estrecho y cilíndrico con pico y tapa ajustada que se usa para guardar algo comestible",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"alentarse",
+        "significado":"reponerse de una enfermedad, recuperar la salud",
+        "ejemplo":null,
+        "región":"Cundinamarca, Boyacá",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"alzar moño",
+        "significado":"en la jerga gallística, acobardarse un gallo ante su adversario, correrse",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"amenito",
+        "significado":"sí, así sea, correcto",
+        "ejemplo":"le dieron tetero al niño? –amenito, contesta la madre",
+        "región":"Boyacá, Cundinamarca, Santander, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"amero",
+        "significado":"envoltura de la mazorca del maíz",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"amonado",
+        "significado":"dicho de una cosa, que ha perdido su color blanco",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"amontunarse",
+        "significado":"volverse una persona rústica, de modales rudos, montaraz",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"anaco",
+        "significado":"talega de fique, provista de dos cargadores para llevarla a la espalda, sujeta a los hombros",
+        "ejemplo":null,
+        "región":"Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"andonear",
+        "significado":"andareguear, ir de un lugar a otro sin dirección determinada",
+        "ejemplo":null,
+        "región":"Cundinamarca, Santander, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"angurriento",
+        "significado":"que demuestra angurria, ambición desmedida",
+        "ejemplo":null,
+        "región":"Antioquia, Cundinamarca, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"anzuelear",
+        "significado":"pescar con anzuelo",
+        "ejemplo":null,
+        "región":"Antioquia, Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"anzueliar",
+        "significado":"pescar con anzuelo",
+        "ejemplo":null,
+        "región":"Antioquia, Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"apicharse",
+        "significado":"descomponerse un alimento",
+        "ejemplo":"la leche se apichó",
+        "región":"Boyacá",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"aporrear",
+        "significado":"golpearse, lastimarse",
+        "ejemplo":null,
+        "región":"Antioquia, Caldas",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"aporrear",
+        "significado":"hacer reñir a los gallos de pelea, calzándoles botainas en las espuelas para que no se hieran o se maten",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"aporriar",
+        "significado":"hacer reñir a los gallos de pelea, calzándoles botainas en las espuelas para que no se hieran o se maten",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"aporriar",
+        "significado":"golpearse, lastimarse",
+        "ejemplo":null,
+        "región":"Antioquia, Caldas",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"apretado",
+        "significado":"que ahorra en exceso, tacaño",
+        "ejemplo":"no le pidas dinero prestado que ella es muy apretada",
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"apretar",
+        "significado":"ahorrar en exceso",
+        "ejemplo":"pueda ser",
+        "región":"Antioquia",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"apuntarse",
+        "significado":"abotonarse",
+        "ejemplo":"apúntese",
+        "región":"Bogotá",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"apurruñar",
+        "significado":"apretar una persona o cosa",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"arepa",
+        "significado":"especie de torta de maíz de forma circular",
+        "ejemplo":null,
+        "región":"Santander, Tolima, Huila, Antioquia, Caldas, Valle del Cauca, Cauca, Costa Atlántica, Boyacá, Cundinamarca, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"arepazo",
+        "significado":"palmada",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"arepear",
+        "significado":"dar palmadas a alguien, imitando la forma de apelmazar la masa del maíz",
+        "ejemplo":"lo arepiaron por haber llegado tarde",
+        "región":"Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"arepiar",
+        "significado":"dar palmadas a alguien, imitando la forma de apelmazar la masa del maíz",
+        "ejemplo":"lo arepiaron por haber llegado tarde",
+        "región":"Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"argollero",
+        "significado":"engañador, que trata de sacar ventaja",
+        "ejemplo":"juan es argollero en todos sus tratos",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"arracachada",
+        "significado":"necedad, tontería, simplicidad",
+        "ejemplo":"fíjese [ .] en el compañero que le va a tocar, para que no le haga caso cuando le salga con alguna arracachada",
+        "región":"Antioquia, Caldas, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"arrancharse",
+        "significado":"alojarse en un lugar, por lo general sin consentimiento de los dueños",
+        "ejemplo":null,
+        "región":"Boyacá",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"arrastraderas",
+        "significado":"pantuflas, chancletas",
+        "ejemplo":null,
+        "región":"Caldas, Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"arrecharse",
+        "significado":"enojarse, enfurecerse",
+        "ejemplo":"vinieron a cobrarle. entonces don luis se arrechó",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"arrecho",
+        "significado":"enfadado, encolerizado",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"arruncharse",
+        "significado":"encogerse para dormir, hacerse un ovillo",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Santander, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"asentarse",
+        "significado":"ajuiciarse",
+        "ejemplo":"pueda ser que nicanor se asiente con el casamiento",
+        "región":"Antioquia, Caldas, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"asistir",
+        "significado":"residir, habitar",
+        "ejemplo":"eusebio asiste en la montaña",
+        "región":"Boyacá, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"atacuñar",
+        "significado":"rellenar un hueco o espacio vacío",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"atarantado",
+        "significado":"que obra con precipitud o falta de reflexión",
+        "ejemplo":null,
+        "región":"Caldas",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"atarantarse",
+        "significado":"precipitarse a hacer las cosas sin reflexión",
+        "ejemplo":null,
+        "región":"Caldas, Cundinamarca, Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"atarragarse",
+        "significado":"comer en exceso",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"ataúd de las ánimas",
+        "significado":"féretro de madera tosca, sin pulimento ni pintura, que se emplea en los pueblos para enterrar a los pobres de solemnidad",
+        "ejemplo":"salieron los comisarios con el ataúd de las ánimas",
+        "región":"Antioquia",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"atierrar",
+        "significado":"rodear con tierra el pie de las plantas cultivadas formando un pequeño promontorio alrededor de ellas",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"atisbón",
+        "significado":"fisgón, atisbador",
+        "ejemplo":"aquel ¡tun! ¡tun! perpetuo de [ .] rateros atisbones [ .] son para coger el monte",
+        "región":"Antioquia, Caldas",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"atotumarse",
+        "significado":"atolondrarse, aturdirse momentáneamente",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Cundinamarca, Huila, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"atrincar",
+        "significado":"trincar, atar fuertemente",
+        "ejemplo":"aquí le tengo aparte la",
+        "región":"Antioquia",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"atronado",
+        "significado":"irreflexivo, impulsivo",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"atronado",
+        "significado":"torpe, tardo, falto de habilidad y destreza",
+        "ejemplo":null,
+        "región":"Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"atulampar",
+        "significado":"aturdir, atontar, desorientar",
+        "ejemplo":"los atulamparon con tantos gritos",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"aturugarse",
+        "significado":"atiborrarse o hartarse de algo",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"auca",
+        "significado":"persona no bautizada",
+        "ejemplo":"esta huaca es de aucas, o sea, de infieles",
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"averigüetas",
+        "significado":"entrometido, fisgón",
+        "ejemplo":"aquí se sabe todo antes qui uno lu haga y las marines son muy averigüetas",
+        "región":"Antioquia",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"avispón",
+        "significado":"dulce de maíz con miel, en forma de bola",
+        "ejemplo":null,
+        "región":"Boyacá",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"ayudado",
+        "significado":"persona de quien se cree que tiene poderes extraordinarios, porque tiene pacto con el diablo",
+        "ejemplo":"si es o no bruja escobera o voladora, se discute: mas ¿cómo no creer que es una ayudada de siete suelas",
+        "región":"Antioquia, Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"azafate",
+        "significado":"bandeja",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Norte de Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"azafato",
+        "significado":"bandeja",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Norte de Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"azaroso",
+        "significado":"que causa miedo, que tiene apariencia de peligroso",
+        "ejemplo":"si l'imagen del diablo hiciera daños, no la tenería mi amo el señor cura, tan patente y tan azarosa, en la urna del arcángel san miguel",
+        "región":"Cundinamarca, Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"azogado",
+        "significado":"dicho de una persona, muy inquieta",
+        "ejemplo":"no le digo que es azogado? parece un lagarto, una ardilla, un muñeco de caucho",
+        "región":"Antioquia, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"añangotarse",
+        "significado":"ponerse en cuclillas",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"añingotarse",
+        "significado":"ponerse en cuclillas",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"babilejo",
+        "significado":"palustre, herramienta de albañilería que consta de una pala triangular con un mango y se usa para extender la mezcla",
+        "ejemplo":null,
+        "región":"Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"bagacear",
+        "significado":"desacreditar o despreciar a una persona",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"bajar",
+        "significado":"alojarse temporalmente en casa de alguien",
+        "ejemplo":"me bajaré donde mi hermano",
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"barredura",
+        "significado":"en la minería, conjunto de operaciones para recoger todo el oro contenido en determinado lugar de un aluvión",
+        "ejemplo":null,
+        "región":"Antioquia",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"batería",
+        "significado":"conjunto de utensilios destinados a la fabricación de miel o panela",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"bejuco",
+        "significado":"que está disgustado, de mal humor o encolerizado. s",
+        "ejemplo":"e puso bejuco por mero saludarlo",
+        "región":"Boyacá",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"bemba",
+        "significado":"boca de labios gruesos y abultados, característicos, especialmente, de la raza negra",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"bembón",
+        "significado":"dicho de una persona, de labios gruesos y pronunciados",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"berrenchín",
+        "significado":"olor desagradable que, por desaseo, exhala una persona",
+        "ejemplo":null,
+        "región":"Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"berrinchín",
+        "significado":"olor desagradable que, por desaseo, exhala una persona",
+        "ejemplo":null,
+        "región":"Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"berriondo",
+        "significado":"persona mal intencionada",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"bichirón",
+        "significado":"que vagabundea, que va de una parte a otra",
+        "ejemplo":"se volvió una bichirona de siete suelas",
+        "región":"Boyacá",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"bienmesabe",
+        "significado":"dulce de leche cuajada y hervida con panela",
+        "ejemplo":null,
+        "región":"Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"birria",
+        "significado":"adicción al juego",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"blanco",
+        "significado":"persona adinerada y de clase alta, sin importar el color de la piel",
+        "ejemplo":"vean que ponerse a hablar de nobleza esta pastora [ .] ¡tan blanca que es y no se fija en el pelo pasudo que tiene",
+        "región":"Antioquia, Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"blanqueado",
+        "significado":"golosina elaborada con miel de caña que se bate, sin llegar al punto de caramelo",
+        "ejemplo":"al ratico me dieron alfandoque, conejo y blanquiao",
+        "región":"La Guajira",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"blanquiao",
+        "significado":"golosina elaborada con miel de caña que se bate, sin llegar al punto de caramelo",
+        "ejemplo":"al ratico me dieron alfandoque, conejo y blanquiao",
+        "región":"La Guajira",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"boconear",
+        "significado":"fanfarronear, decir baladronadas",
+        "ejemplo":null,
+        "región":"Antioquia, Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"bogar",
+        "significado":"beber con avidez y sin detenerse",
+        "ejemplo":"pacho está bogando en la tienda desde la una. se lo bogó de una",
+        "región":"Antioquia, Caldas, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"boje",
+        "significado":"pulmón de la res destinado al consumo",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"boje",
+        "significado":"blando, podrido",
+        "ejemplo":"ese palo resultó boje",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"bojote",
+        "significado":"persona gorda",
+        "ejemplo":"pascual es un bojote",
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"bollo",
+        "significado":"mujer joven y atractiva",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"bololó",
+        "significado":"desorden, barullo",
+        "ejemplo":null,
+        "región":"Antioquia, Cundinamarca, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"bolsicona",
+        "significado":"mujer que usa el bolsicón",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"bolsicón",
+        "significado":"enaguas de tela de algodón",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"bongo",
+        "significado":"canoa cubierta parcialmente con techumbre para transporte fluvial",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"boroló",
+        "significado":"desorden, barullo",
+        "ejemplo":null,
+        "región":"Antioquia, Cundinamarca, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"borugo",
+        "significado":"paca, mamífero roedor",
+        "ejemplo":null,
+        "región":"Cundinamarca, Huila, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"bramadera",
+        "significado":"bravera o respiradero de los hornos",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"brocha",
+        "significado":"dicho de una persona, burda, ruda",
+        "ejemplo":"ese amigo suyo es muy brocha",
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"bronquinoso",
+        "significado":"pendenciero, peleador, camorrista",
+        "ejemplo":null,
+        "región":"Magdalena",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"buchácara",
+        "significado":"cierto juego de billar que consiste en meter todas las bolas en la busaca",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"budare",
+        "significado":"plancha muy delgada, de hierro, de arcilla o de piedra, destinada para cocer las arepas y otros comestibles",
+        "ejemplo":null,
+        "región":"Antioquia, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"buitrón",
+        "significado":"cenicero de los hornos de cocer el pan, calentados con leña",
+        "ejemplo":null,
+        "región":"Cundinamarca, Santander, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"bullaranga",
+        "significado":"bulla, gritería",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"burriador",
+        "significado":"juguete infantil que consiste en una hoja de lata de forma circular y dentada, con dos hoyos equidistantes del centro por los cuales pasa una cuerda delgada que atorzalada y luego estirada y aflojada rítmicamente, zumba",
+        "ejemplo":null,
+        "región":"Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"busaca",
+        "significado":"tronera de la mesa de billar",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cachamenta",
+        "significado":"conjunto de cuernos de algunos animales",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cachapear",
+        "significado":"cambiar una marca hecha a una res con el hierro candente por otra, con el fin de robarla",
+        "ejemplo":null,
+        "región":"Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cachapla",
+        "significado":"arepa de maíz tierno adobada con queso y panela para acompañar el chocolate",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cachaquera",
+        "significado":"plantación o cultivo de cachaco",
+        "ejemplo":null,
+        "región":"Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cachar",
+        "significado":"jugar a los dados",
+        "ejemplo":null,
+        "región":"Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cachencho",
+        "significado":"dicho de una persona, que por su edad se encuentra chocho",
+        "ejemplo":null,
+        "región":"Atlántico",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cachetero",
+        "significado":"sinvergüenza, que le gusta aprovecharse de los demás",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cachicamo",
+        "significado":"armadillo",
+        "ejemplo":null,
+        "región":"Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cachilapo",
+        "significado":"vehículo pequeño, carpado, utilizado para transportar personas, animales y bultos de regular tamaño",
+        "ejemplo":"yo más bien me voy en cachilapo",
+        "región":"Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cachimona",
+        "significado":"tubo de lata con orificios, utilizado para echar los dados",
+        "ejemplo":null,
+        "región":"Antioquia, Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cafongo",
+        "significado":"manjar compuesto de harina de maíz, panela, queso y pimienta, envuelto en hojas de bijao y cocido al vapor",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"calceto",
+        "significado":"dicho de un ave doméstica como el gallo o la gallina, calzada, con plumas en las patas",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"calilla",
+        "significado":"cigarro largo, delgado y de mala clase",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Norte de Santander, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"calungo",
+        "significado":"dicho del perro o del cerdo, que no tiene pelo",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"camarico",
+        "significado":"obsequio de los campesinos al párroco",
+        "ejemplo":null,
+        "región":"Huila, Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cambulera",
+        "significado":"cárcel",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"canastear",
+        "significado":"coquetear con las empleadas del servicio doméstico",
+        "ejemplo":null,
+        "región":"Cundinamarca, Santander, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cancha",
+        "significado":"afección de la piel causada por el zumo cáustico de algunas plantas",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"candelear",
+        "significado":"acompañar a otro en coqueteos o amoríos",
+        "ejemplo":null,
+        "región":"Antioquia",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"candelear",
+        "significado":"embriagarse, achisparse",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"candelilla",
+        "significado":"luciérnaga",
+        "ejemplo":null,
+        "región":"Antioquia, Caldas",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"candil",
+        "significado":"bebida caliente a base de leche, yema de huevo, azúcar, canela y vino",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"caneca",
+        "significado":"envase de latón para petróleo y otros líquidos",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"canelazo",
+        "significado":"trago de aguardiente en agua caliente, con azúcar, limón y canela",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cangle",
+        "significado":"trozo de tallo",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"canillero",
+        "significado":"puntapié dado o recibido en las canillas, especialmente en el juego de fútbol",
+        "ejemplo":"me dieron dos canilleros que me dejaron cojo",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"canillón",
+        "significado":"dicho de una persona, que tiene las piernas o canillas largas",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cansón",
+        "significado":"dicho de una persona o cosa, molesta, insistente, fastidiosa",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"canturrón",
+        "significado":"cera prieta y dura que labran las abejas criollas",
+        "ejemplo":null,
+        "región":"Antioquia",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"capacho",
+        "significado":"caparazón, cascarón, concha",
+        "ejemplo":null,
+        "región":"Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"capador",
+        "significado":"instrumento musical a modo de caramillo",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"capamicos",
+        "significado":"tunante, pícaro, hábil por sus mañas y resabios",
+        "ejemplo":"más vale un capamicos que un bobo",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"capear",
+        "significado":"llamar de lejos con la mano a una persona",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"capotera",
+        "significado":"bolsa o talega de viaje hecha de cuerdas, generalmente de fique, cuyos extremos se cierran con cuerdas que se atan para facilitar su transporte en la espalda o al hombro",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"caquear",
+        "significado":"robar cosas de poco valor",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"carabina",
+        "significado":"mezcla de dos bebidas alcohólicas o de una bebida alcohólica con gaseosa",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"caracha",
+        "significado":"objeto o utensilio viejo, desvencijado",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"caradenalga",
+        "significado":"persona de cara grande",
+        "ejemplo":null,
+        "región":"Antioquia, Caldas, Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"caraza",
+        "significado":"desvergüenza",
+        "ejemplo":"qué caraza la de este sujeto",
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"carenalga",
+        "significado":"persona de cara grande",
+        "ejemplo":null,
+        "región":"Antioquia, Caldas, Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"carimañola",
+        "significado":"empanada de yuca frita, rellena de carne, huevo o pescado",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"carisina",
+        "significado":"mujer poco diestra en el desempeño de las labores domésticas",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cariucho",
+        "significado":"guiso que se prepara a base de carne de curí, ají, sal y papas",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"carrumia",
+        "significado":"mugre, especialmente de los pies",
+        "ejemplo":null,
+        "región":"Antioquia, Caldas",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"carón",
+        "significado":"desvergonzado, cínico",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"casanga",
+        "significado":"matrimonio",
+        "ejemplo":null,
+        "región":"Antioquia",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"casanga",
+        "significado":"dulce que se hace con brevas, papaya verde y limones colados en almíbar o miel de caña",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cascarero",
+        "significado":"contrabandista en pequeño",
+        "ejemplo":null,
+        "región":"Norte de Santander, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cascarero",
+        "significado":"persona que se alimenta de sobras o desperdicios",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cascarilla",
+        "significado":"cascarrabias",
+        "ejemplo":"no trabajo con el patrón porque es muy cascarillas",
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"casera",
+        "significado":"señora de la casa",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"caspa",
+        "significado":"mazorca de maíz maduro",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"caspetudo",
+        "significado":"dicho de algunas bebidas, espeso",
+        "ejemplo":"le quedó el masato caspetudo",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"catanga",
+        "significado":"canasta de mimbre, con tapa, que sirve para guardar comestibles, útiles de costura, etc",
+        "ejemplo":null,
+        "región":"Chocó, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"catire",
+        "significado":"que tiene el cabello rubio",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"catiro",
+        "significado":"que tiene el cabello rubio",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cañar",
+        "significado":"decir mentiras, engañar",
+        "ejemplo":"la verdad es que cancún era una oportunidad para probar si los países ricos estaban cañando o sus anuncios de reforma agrícola eran un sincero compromiso con el desarrollo de los más pobres",
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cañaña",
+        "significado":"fuerza, energía, valor",
+        "ejemplo":"diego es hombre de cañaña",
+        "región":"Costa Atlántica, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cañón",
+        "significado":"tronco de un árbol",
+        "ejemplo":null,
+        "región":"Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cena",
+        "significado":"comida, generalmente ligera, que se toma antes de acostarse",
+        "ejemplo":null,
+        "región":"Norte de Santander, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cerco",
+        "significado":"vara de madera que se usa en carpintería y construcción de casas",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chacaroso",
+        "significado":"que tiene úlceras o llagas",
+        "ejemplo":null,
+        "región":"Cauca, Nariño, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chacarón",
+        "significado":"tonto",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chagra",
+        "significado":"pequeña propiedad rural",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chagualo",
+        "significado":"zapato viejo, por lo común deformado",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chalequear",
+        "significado":"ofender, molestar, incomodar con impertinencia",
+        "ejemplo":"a ese tipo le gusta chalequear",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"champús",
+        "significado":"bebida preparada a base de maíz cocido, azúcar o panela y jugo de lulo",
+        "ejemplo":null,
+        "región":"Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chancletear",
+        "significado":"golpear a los niños con chancleta",
+        "ejemplo":null,
+        "región":"Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chanfa",
+        "significado":"riña, pelea",
+        "ejemplo":null,
+        "región":"Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"changonga",
+        "significado":"broma pesada, burla",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"changua",
+        "significado":"alimento líquido que se toma generalmente al desayuno y que consiste en una mezcla de agua, leche con sal y cilantro",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chapa",
+        "significado":"caja de dientes",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chara",
+        "significado":"sopa a base de cebada",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"charrasca",
+        "significado":"conjunto de ramas y hojas secas de arbustos y árboles, que arde con suma facilidad",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"charrascal",
+        "significado":"campo sin labrar, de ordinario cubierto de maleza",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"charrera",
+        "significado":"hecho o dicho gracioso, divertido",
+        "ejemplo":null,
+        "región":"Caldas, Quindío, Risaralda",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"charro",
+        "significado":"gracioso, bonito",
+        "ejemplo":"qué muñequito tan charro",
+        "región":"Caldas, Quindío, Risaralda",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chatas",
+        "significado":"carne del costillaje de la res",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chenga",
+        "significado":"pedrezuela labrada por los indios caribes y horadada en un extremo para ensartarla y formar collares",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chicuca",
+        "significado":"excremento",
+        "ejemplo":null,
+        "región":"Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chigualo",
+        "significado":"celebración familiar con motivo de la muerte de un niño",
+        "ejemplo":null,
+        "región":"Costa del Pacífico",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chilangas",
+        "significado":"testículos",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chilonguear",
+        "significado":"mecer a una persona con fuerza, cuando se encuentra en una hamaca",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chimba",
+        "significado":"trenza",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chimbilá",
+        "significado":"vulva",
+        "ejemplo":"válgame dios de los cielos,\/santísima trenidá!\/que una muchacha bonita\/señalaba el chimbilá",
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chingue",
+        "significado":"pequeño",
+        "ejemplo":null,
+        "región":"Antioquia",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chipampa",
+        "significado":"casualidad, buena suerte",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chipola",
+        "significado":"mujer, compañera",
+        "ejemplo":"taba yo ayer por la tarde,\/comiendo mi mazamorra,\/ cuando me cayó la nueva\/qu'era muerta mi chipola",
+        "región":"Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chipolo",
+        "significado":"manojo de cabello recogido sobre la frente",
+        "ejemplo":"usaba chipolo, moño y monóculo",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chiquero",
+        "significado":"basura, especialmente la que se recoge barriendo",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chiquero",
+        "significado":"corral en donde se encierran los terneros",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chisacá",
+        "significado":"planta silvestre que se emplea como forraje, muy usada en la medicina popular",
+        "ejemplo":"la jlor de la chisacá\/ sirve para hacer sudor,\/pa'que se aparten los celos\/y encienda más el amor",
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chisgua",
+        "significado":"achira",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chispeadura",
+        "significado":"acción y efecto de chispearse",
+        "ejemplo":"mi vestido tiene chispeaduras de barro",
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chita",
+        "significado":"orina",
+        "ejemplo":null,
+        "región":"Santander, Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chivato",
+        "significado":"dicho de un niño, vivo, despierto, inaguantable",
+        "ejemplo":"es un chivato",
+        "región":"Cundinamarca, Santander, Boyacá",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chorno",
+        "significado":"gracioso, bonito",
+        "ejemplo":null,
+        "región":"Antioquia, Quindío, Risaralda",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chucha",
+        "significado":"axila",
+        "ejemplo":null,
+        "región":"Cundinamarca, Tolima, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chucha",
+        "significado":"cobarde, de poco ánimo. il ser una ~ para algo . no tener aptitudes o capacidad para realizar una actividad",
+        "ejemplo":"soy una chucha para la música",
+        "región":"Cundinamarca, Nariño, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chucha",
+        "significado":"zarigüeya, raposa, fara",
+        "ejemplo":null,
+        "región":"Antioquia, Costa Atlántica, Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chucha",
+        "significado":"vulva",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chucha",
+        "significado":"mal olor del sudor de las axilas",
+        "ejemplo":null,
+        "región":"Antioquia, Santander, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chuchingo",
+        "significado":"cobarde, de poco ánimo, tímido",
+        "ejemplo":"no sea chuchingo",
+        "región":"Costa del Pacífico, Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chucho",
+        "significado":"instrumento musical de percusión compuesto de un tubo de madera hueco, hecho ordinariamente de guadua o de arboloco, con algunas chinas o pepitas adentro, que producen un ruido seco al agitarlo",
+        "ejemplo":null,
+        "región":"Antioquia, Costa Atlántica, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chucho",
+        "significado":"dicho de un fruto, que está arrugado y en vía de podrirse",
+        "ejemplo":"anoche me convidaron\/a comer la buena cena:\/las arracachas bien chuchas\/una paletilla'e yegua",
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chulla",
+        "significado":"solo, único",
+        "ejemplo":"me quedé con el chulla vestido",
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chulpe",
+        "significado":"especie de maíz blando",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chumbe",
+        "significado":"ceñidor para envolver a los bebés",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chumbo",
+        "significado":"pavo",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chumero",
+        "significado":"barrizal, enterradero",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chunchoso",
+        "significado":"barrigón",
+        "ejemplo":"desde que te vi venir\/en ese potro chunchoso\/ me dijo mi corazón:\/ni pa' novio ni pa' esposo",
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chunchullo",
+        "significado":"parte del intestino de animales vacunos, porcinos y ovinos que se fríe para comer",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chupa",
+        "significado":"agente de la policía de tránsito",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"churco",
+        "significado":"viruta de madera",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"churro",
+        "significado":"persona físicamente atractiva",
+        "ejemplo":"tu prima sí es todo un churro",
+        "región":"Bogotá",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chusco",
+        "significado":"dicho de una persona o cosa, bonita, agradable, atractiva",
+        "ejemplo":"qué niña tan chusca",
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chuspa",
+        "significado":"bolsa que se emplea para empacar algo como el mercado",
+        "ejemplo":null,
+        "región":"Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chuta",
+        "significado":"sombrero viejo",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chácara",
+        "significado":"herida, cortadura profunda",
+        "ejemplo":null,
+        "región":"Antioquia, Caldas",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chácara",
+        "significado":"monedero",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chácara",
+        "significado":"testículo",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chúcaro",
+        "significado":"bestia sin amansar",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Llanos Orientales, Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"chúpame las cáscaras",
+        "significado":"dicho de una persona, entrometido, adulador, chismoso",
+        "ejemplo":"no lo querían por chúpame las cáscaras",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"claridoso",
+        "significado":"dicho de una persona, que dice la verdad con crudeza",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cocha",
+        "significado":"siesta",
+        "ejemplo":null,
+        "región":"Antioquia, Caldas",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cocha",
+        "significado":"mezcla de sustancias sólidas y líquidas para fabricar algún producto",
+        "ejemplo":"estamos cociendo la cocha de jabón",
+        "región":"Cundinamarca, Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cocha",
+        "significado":"lago, laguna",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cocha",
+        "significado":"aguardiente",
+        "ejemplo":null,
+        "región":"Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"coche",
+        "significado":"voz con la cual se espanta a los cerdos",
+        "ejemplo":null,
+        "región":"Cundinamarca, Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cocorra",
+        "significado":"cabeza",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cocorrón",
+        "significado":"dulce de plátano verde frito con panela o de harina, coco y azúcar",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cocotera",
+        "significado":"peineta arqueada para sujetar el cabello por delante a manera de diadema",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cojosa",
+        "significado":"leche fermentada",
+        "ejemplo":null,
+        "región":"La Guajira",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"concha",
+        "significado":"corteza de los árboles o las frutas",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"concho",
+        "significado":"la última leche que se le extrae a la vaca en cada ordeño",
+        "ejemplo":null,
+        "región":"Nariño, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"contrafómeque",
+        "significado":"persona o acción de esta que impide, neutraliza o supera la acción perjudicial de alguien",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"convite",
+        "significado":"trabajos realizados en comunidad, especialmente en agricultura y construcción",
+        "ejemplo":null,
+        "región":"Cauca, Nariño, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"corralero",
+        "significado":"mozo que guarda y ordeña las vacas en los corrales",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cosca",
+        "significado":"caparazón de algunos animales como el armadillo",
+        "ejemplo":"la cosca del armadillo\/sirve pa'miles enredos:\/sirve pa'sembrar el maíz\/y para guardar los güevos",
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"coscongo",
+        "significado":"persona u objeto muy feo",
+        "ejemplo":null,
+        "región":"Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cositero",
+        "significado":"que trabaja en muchas cosas, ordinariamente de poca importancia",
+        "ejemplo":null,
+        "región":"Antioquia, Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"costaleo",
+        "significado":"robo de café en cereza, a un trabajador, por parte de otro en la recolecta",
+        "ejemplo":"el costaleo es muy generalizado en algunas fincas",
+        "región":"Antioquia, Caldas, Quindío, Risaralda",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"costra",
+        "significado":"clase de pan tostado",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"coya",
+        "significado":"ramera",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"coya",
+        "significado":"cierto tipo de araña muy venenosa",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"crespo",
+        "significado":"viruta",
+        "ejemplo":null,
+        "región":"Norte de Santander, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cuan",
+        "significado":"cuerda o soga de esparto",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cubiletero",
+        "significado":"intrigante",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cuca",
+        "significado":"joroba",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cuca",
+        "significado":"excremento de los niños",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cucaracho",
+        "significado":"parlanchín",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cucaracho",
+        "significado":"que tiene el rostro picado de viruelas",
+        "ejemplo":"el cucaracho gutiérrez",
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cucarrearse",
+        "significado":"volverse negro el café por exceso de tostado",
+        "ejemplo":"este café se cucarrió",
+        "región":"Antioquia",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cucayo",
+        "significado":"pegote o pega que se adhiere a la vasija en que se cuecen los alimentos cuando han permanecido bastante tiempo en el fuego",
+        "ejemplo":"me gusta el cucayo de arroz",
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cucharearse",
+        "significado":"curvarse o torcerse una superficie plana, especialmente de madera",
+        "ejemplo":"la ventana se cuchareó",
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cuchivachín",
+        "significado":"picapleitos, tinterillo",
+        "ejemplo":null,
+        "región":"Santander, Norte de Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cuchubo",
+        "significado":"alforja doble de cuero, con tapa, que se agrega a la silla de montar para llevar objetos o provisiones de viaje",
+        "ejemplo":null,
+        "región":"Cundinamarca, Llanos Orientales, Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cuco",
+        "significado":"dicho de una persona, picada de viruela",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cují",
+        "significado":"tacaño",
+        "ejemplo":null,
+        "región":"Bolívar, Costa Atlántica, Magdalena, Norte de Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"culera",
+        "significado":"miedo de los gallos durante la pelea",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"culiflojo",
+        "significado":"pusilánime, inseguro",
+        "ejemplo":null,
+        "región":"Cundinamarca, Boyacá",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"culimbo",
+        "significado":"de trasero levantado, de nalgas gruesas",
+        "ejemplo":null,
+        "región":"Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"culirroto",
+        "significado":"desarrapado, andrajoso",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cumbambón",
+        "significado":"dicho de una persona, que tiene gruesa o abultada la mandíbula, belfo",
+        "ejemplo":null,
+        "región":"Cundinamarca, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cunche",
+        "significado":"refajo",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cuncho",
+        "significado":"la última leche que se le extrae a la vaca en cada ordeño",
+        "ejemplo":null,
+        "región":"Nariño, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cunga",
+        "significado":"mazamorra espesa hecha de suero de leche y harina de maíz tostado",
+        "ejemplo":"cuando salí de los llanos\/a caballo en una pulga\/me vino a' clarear el día\/ juntito a l'olla e la cunga",
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cura",
+        "significado":"aguacate",
+        "ejemplo":null,
+        "región":"Santander, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"currulao",
+        "significado":"baile de origen africano que se acompaña con marimbas, tambores y cununos",
+        "ejemplo":null,
+        "región":"Costa del Pacífico",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cursera",
+        "significado":"envidia",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cutarro",
+        "significado":"vasija de inferior calidad",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cute",
+        "significado":"sopa muy espesa",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cute",
+        "significado":"herramienta de madera para las faenas agrícolas",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cute",
+        "significado":"capa de mugre en el cuerpo de una persona",
+        "ejemplo":null,
+        "región":"Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cute",
+        "significado":"ramera vieja",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cute",
+        "significado":"calabazo viejo en que se guardan desperdicios",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cuy",
+        "significado":"cierta clase de roedor cuya carne es muy apetecida",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"cuítiva",
+        "significado":"especie de garrapata pequeña",
+        "ejemplo":null,
+        "región":"Santander, Tolima, Huila",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"dar casquillo",
+        "significado":"despertar celos en alguien",
+        "ejemplo":null,
+        "región":"Cundinamarca, Nariño, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"dar casquillo",
+        "significado":"burlarse de una persona",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"dar casquillo",
+        "significado":"provocar a una persona, incitarla a pelear mediante insultos o burlas",
+        "ejemplo":null,
+        "región":"Antioquia, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"derechura",
+        "significado":"buena suerte",
+        "ejemplo":"qué derechura la tuya",
+        "región":"Boyacá, Cundinamarca, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"desamerar",
+        "significado":"deshojar la mazorca del maíz",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"desbrevada",
+        "significado":"dedicación intensa al estudio",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"desclarar",
+        "significado":"inclinar suavemente una vasija para hacer salir el líquido sin remover el sedimento",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"descumbrar",
+        "significado":"derribar los árboles de una montaña",
+        "ejemplo":null,
+        "región":"Cundinamarca, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"descumbrar",
+        "significado":"cortar la parte más alta de arbustos y árboles pequeños",
+        "ejemplo":null,
+        "región":"Antioquia, Santander, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"descumbre",
+        "significado":"lugar montañoso en que se han derribado los árboles",
+        "ejemplo":null,
+        "región":"Cundinamarca, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"desencamar",
+        "significado":"encontrar a una persona o animal de caza que se ha estado buscando",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Norte de Santander, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"desencamar",
+        "significado":"sacar de su guarida a un animal de caza",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"desenchipar",
+        "significado":"desembobinar, desenrollar algo",
+        "ejemplo":null,
+        "región":"Cundinamarca, Llanos Orientales, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"desguarambilado",
+        "significado":"desaliñado, descuidado en el traje",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"deshuevarse",
+        "significado":"esforzarse en la consecución o aprendizaje de algo",
+        "ejemplo":"me voy a deshuevar por terminar eso pronto",
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"desmueletado",
+        "significado":"que ha perdido uno o varios dientes o muelas",
+        "ejemplo":null,
+        "región":"Cundinamarca, Norte de Santander, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"desorejado",
+        "significado":"indiferente en religión",
+        "ejemplo":"no va a misa porque es desorejado",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"despelucar",
+        "significado":"irritar a alguien",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"despencarse",
+        "significado":"caer al suelo desde un lugar alto",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"desporrondingarse",
+        "significado":"explayarse",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"desporrondingarse",
+        "significado":"ser muy generoso",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"destortolarse",
+        "significado":"matarse",
+        "ejemplo":null,
+        "región":"Cundinamarca, Santander, Boyacá",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"destutanarse",
+        "significado":"romperse la cabeza, descalabrarse",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"desvarejar",
+        "significado":"cortar los varejones o verdascas de los árboles",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"distinguir",
+        "significado":"conocer a una persona",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"dígame",
+        "significado":"denota que algo que se pregunta es evidente",
+        "ejemplo":"vendrá la señora",
+        "región":"Antioquia, Costa Atlántica, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"el algo",
+        "significado":"refrigerio",
+        "ejemplo":"llegó el algo. llegaron las cucas, el churro, los buñuelos",
+        "región":"Antioquia",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"embarruntar",
+        "significado":"manchar el cuerpo y, especialmente, la cara con tizne u otra cosa",
+        "ejemplo":"se embarrutó en la caballeriza",
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"embarrutar",
+        "significado":"manchar el cuerpo y, especialmente, la cara con tizne u otra cosa",
+        "ejemplo":"se embarrutó en la caballeriza",
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"embolatar",
+        "significado":"ponerse de mal genio",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"empalado",
+        "significado":"dicho de una persona, que no puede mover los músculos de la cintura",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"empalizada",
+        "significado":"trecho de camino cuyo piso está afirmado con palos juntos",
+        "ejemplo":null,
+        "región":"Cundinamarca, Nariño, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"empandorgarse",
+        "significado":"enredarse, dificultarse un asunto",
+        "ejemplo":"cuide de que el negocio no se vaya a empandorgar",
+        "región":"Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"empelotar",
+        "significado":"despojar de los bienes a alguien",
+        "ejemplo":"los ladrones lo empelotaron",
+        "región":"Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"encarrar",
+        "significado":"colocar ordenadamente objetos o piezas unos sobre otros",
+        "ejemplo":"encarrar ladrillos, leña",
+        "región":"Antioquia, Boyacá, Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"enchinao",
+        "significado":"esterilla de cañas que se usa en paredes de bahareque, cielorrasos y armaduras de techos de teja",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"enfuertar",
+        "significado":"fermentar un líquido",
+        "ejemplo":"enfuertar guarapo",
+        "región":"Cundinamarca, Nariño, Santander, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"enquimbarse",
+        "significado":"endeudarse",
+        "ejemplo":"ve que si dejás a este muchacho bien enquimbao, vos sos el primero que tenés que responder!",
+        "región":"Antioquia, Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"entotumarse",
+        "significado":"atolondrarse, aturdirse momentáneamente",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Cundinamarca, Huila, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"envolatar",
+        "significado":"ponerse de mal genio",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"escapito",
+        "significado":"casi",
+        "ejemplo":"escapito me caigo",
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"escuadra",
+        "significado":"señal de tránsito en forma de escuadra que indica que los vehículos deben detenerse",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"espuela",
+        "significado":"calcañar con callo o con alguna infección purulenta",
+        "ejemplo":"tiene una espuela de esas incurables",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"fama",
+        "significado":"carnicería, expendio de carne",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"fifirichas",
+        "significado":"que presume de gracioso",
+        "ejemplo":"no es gracioso; es apenas un fifirichas",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"fifirichas",
+        "significado":"dicho de una persona, que le gusta aparentar",
+        "ejemplo":"es un fifirichas: dijo que tenía una hacienda",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"filo",
+        "significado":"lascivia",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"fisto",
+        "significado":"pene",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"follado",
+        "significado":"falda de bayeta usada por campesinas indígenas",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"frondio",
+        "significado":"malo, horrible, de mal gusto",
+        "ejemplo":"la película me pareció frondia",
+        "región":"Bogotá",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"fucha",
+        "significado":"pelea, gresca",
+        "ejemplo":"se armó la fucha",
+        "región":"Boyacá, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"furuminga",
+        "significado":"enredo, confusión, lío",
+        "ejemplo":"en la plaza de mercado se formó la furuminga",
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"fuñir",
+        "significado":"molestar, importunar",
+        "ejemplo":null,
+        "región":"Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"gaita",
+        "significado":"especie de flauta vertical confeccionada con largos fotutos del corazón del cardón y en el extremo superior tiene adaptada una ocarina de cera de abeja y polvo de carbón vegetal",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"gaja",
+        "significado":"gajo de plátanos adheridos que forman parte de un racimo",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"galapaguero",
+        "significado":"dicho de un caballo, manso y adiestrado para que lo monten niños o señoras",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Llanos Orientales, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"galerón",
+        "significado":"baile popular en parejas, en que el varón y la mujer tratan de atraerse mutuamente. al compás del baile suelen cantarse cuartetas y seguidillas",
+        "ejemplo":"galerón, vámosle dando\/con tripas y corazón;\/ más vale en tu boca un beso\/que en la calle un tropezón",
+        "región":"Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"gallada",
+        "significado":"grupo de amigos que se reúnen con frecuencia para divertirse",
+        "ejemplo":"la gallada del barrio es muy grande",
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"garruchento",
+        "significado":"que solo tiene garra o que es muy flaco, flacuchento",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"glaxo",
+        "significado":"individuo elegante en el vestir y en las maneras",
+        "ejemplo":null,
+        "región":"Bogotá",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"golpe",
+        "significado":"cada una de las tres comidas principales del día",
+        "ejemplo":"a cómo está el golpe? ya conseguí para el segundo golpe",
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"golpera",
+        "significado":"tanda de golpes, especialmente de puñetazos",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"gomelo",
+        "significado":"joven de clase media o alta que se viste en forma llamativa y usa un lenguaje peculiar",
+        "ejemplo":null,
+        "región":"Bogotá",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"gordolobo",
+        "significado":"ron blanco",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guachapear",
+        "significado":"cortar o tumbar el rastrojo o maleza de un modo ligero o incompleto",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guachaquear",
+        "significado":"en el juego de dados, hacerlos sonar moviéndolos entre la mano, antes de arrojarlos a la mesa",
+        "ejemplo":null,
+        "región":"Antioquia",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guacharacazo",
+        "significado":"golpe",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guacherna",
+        "significado":"evento nocturno que se celebra en el carnaval de barranquilla y en el que hay desfile de comparsas, música y baile",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guacherna",
+        "significado":"riña, alboroto entre gente baja",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guagua",
+        "significado":"niño pequeño",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"gualí",
+        "significado":"canto religioso de los negros chocoanos que se entona en el funeral de un niño",
+        "ejemplo":null,
+        "región":"Chocó",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guambía",
+        "significado":"especie de mochila de fibra vegetal, generalmente cabuya, que se teje en forma de malla o red",
+        "ejemplo":null,
+        "región":"Cauca, Nariño, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guandolo",
+        "significado":"ron de contrabando",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guandoy",
+        "significado":"guarapo",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guango",
+        "significado":"conjunto de cosas largas atadas",
+        "ejemplo":"véndame ese guango de leña",
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guapirrear",
+        "significado":"aguijonear con gritos o excitar",
+        "ejemplo":"en córdoba, guapirrear es la máxima expresión de la felicidad",
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guapirreo",
+        "significado":"grito que se emite para expresar alegría, placer o burla",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guaraca",
+        "significado":"honda",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guarilaque",
+        "significado":"aguardiente, licor fuerte",
+        "ejemplo":null,
+        "región":"Cundinamarca, Boyacá",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guarruz",
+        "significado":"bebida un tanto espesa y fermentada que se prepara con agua, azúcar y arroz",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guarruz",
+        "significado":"sedimento constituido por los granos del maíz en la chicha",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guarruz",
+        "significado":"sedimento del masato de arroz",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guasá",
+        "significado":"instrumento musical que se ejecuta sacudiendo un cañuto de guadua que contiene semillas o granos",
+        "ejemplo":null,
+        "región":"Cauca, Chocó, Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guate",
+        "significado":"hombre del interior",
+        "ejemplo":null,
+        "región":"Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guato",
+        "significado":"dicho de un animal o persona, que tiene poca estatura",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guaucho",
+        "significado":"dicho de un niño, que es huérfano o ha sido abandonado",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"gurre",
+        "significado":"armadillo",
+        "ejemplo":null,
+        "región":"Antioquia, Caldas, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"guámbito",
+        "significado":"niño",
+        "ejemplo":null,
+        "región":"Huila, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"génova",
+        "significado":"butifarra, embutido preparado principalmente con carne de cerdo, en pequeñas bolas, que suele presentarse en sartas",
+        "ejemplo":null,
+        "región":"Cundinamarca, Boyacá, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"güete",
+        "significado":"contento, alegre",
+        "ejemplo":null,
+        "región":"Antioquia, Caldas",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"güinche",
+        "significado":"dicho de un fruto, duro y seco, por haber madurado prematuramente",
+        "ejemplo":"la yuca está güinche",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"habano",
+        "significado":"banano, plátano que se come crudo",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"hacer escuadra",
+        "significado":"detenerse un vehículo en el sitio indicado",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"hatillo",
+        "significado":"atado o sobrecarga pequeña que les ponen a veces a las bestias",
+        "ejemplo":null,
+        "región":"Cundinamarca, Tolima, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"hunche",
+        "significado":"afrecho, hollejo del maíz y otros cereales",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"igua",
+        "significado":"papa de baja calidad que nace en una sementera de semilla que queda rezagada al tiempo de la cosecha",
+        "ejemplo":null,
+        "región":"Huila",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"iji",
+        "significado":"expresa negación enérgica",
+        "ejemplo":"iji! si me voy a levantar temprano",
+        "región":"Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"imbombera",
+        "significado":"estado enfermizo de una persona que se manifiesta por hinchazón y palidez excesiva",
+        "ejemplo":null,
+        "región":"Norte de Santander, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"imbombo",
+        "significado":"torpe, atontado, aturdido",
+        "ejemplo":"desde ese día prencipió a ponerse imbombo y a vivir ai medio dormido",
+        "región":"Antioquia, Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"imbombo",
+        "significado":"hinchado, muy pálido, enfermizo",
+        "ejemplo":null,
+        "región":"Antioquia, Norte de Santander, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"inyectología",
+        "significado":"aplicación de inyecciones",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"itaña",
+        "significado":"uva silvestre",
+        "ejemplo":"pobrecita guacamaya,\/mucha lástima me da:\/se acabaron las itañas,\/y ahora ¿qué comerá",
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"ja",
+        "significado":"voz con que se ahuyenta las reses y se anima a que caminen los bueyes de carga",
+        "ejemplo":null,
+        "región":"Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"jarocho",
+        "significado":"alegre, desenvuelto, ágil de movimientos",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"jartera",
+        "significado":"borrachera",
+        "ejemplo":null,
+        "región":"Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"jarto",
+        "significado":"borracho",
+        "ejemplo":null,
+        "región":"Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"jerrequejere",
+        "significado":"desorden, barullo",
+        "ejemplo":"en la plaza del pueblo se formó un jerrequejere con motivo de la manifestación",
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"jipata",
+        "significado":"mujer encinta",
+        "ejemplo":"en honda me tienen preso\/y en la ciudad de la plata\/porque no quise querer\/una que andaba jipata",
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"jipato",
+        "significado":"dicho de una persona, contrahecha",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"jipato",
+        "significado":"dicho de una persona, muy pálida",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"jochar",
+        "significado":"aguijar al ganado",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"jojoro",
+        "significado":"podrido, esponjoso, sin sustancia",
+        "ejemplo":"el maíz no sirve, está jojoro",
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"jondear",
+        "significado":"tirar, lanzar, arrojar",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"jopo",
+        "significado":"trasero, nalgas",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"joropear",
+        "significado":"bailar, divertirse",
+        "ejemplo":null,
+        "región":"Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"jota",
+        "significado":"voz que se usa para arrear el ganado",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"joto",
+        "significado":"colonia de avispas",
+        "ejemplo":"el muchacho alborotó un joto",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"joto",
+        "significado":"jolgorio, fiesta bailable",
+        "ejemplo":"armaron un joto hasta el amanecer",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"joto",
+        "significado":"pleito lugareño",
+        "ejemplo":"se prendió el joto en curití",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"joto",
+        "significado":"embarazo",
+        "ejemplo":"ya se le nota el joto",
+        "región":"Boyacá, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"juaica",
+        "significado":"anciano fabuloso que vive en las montañas y que persigue a las muchachas casaderas",
+        "ejemplo":"la muchacha que a los quince\/no se acueste con sus taitas,\/que se tranque bien la puerta\/porque se la lleva el juaica",
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"juepa",
+        "significado":"voz que expresa alegría, especialmente en los bailes",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"jurumba",
+        "significado":"pipa para fumar",
+        "ejemplo":"por esta bajada abajo\/va un conejo que zumba\/recogiendo su tabaco\/para echarle a su jurumba",
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"jurungo",
+        "significado":"gitano",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Llanos Orientales, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"jute",
+        "significado":"madera medio podrida",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"ladrón",
+        "significado":"especie de sifón para sacar gasolina del tanque de los vehículos automotores",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"lamparazo",
+        "significado":"golpe seco",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"lancha",
+        "significado":"individuo vivo, audaz, perspicaz para los negocios",
+        "ejemplo":"juan es una lancha",
+        "región":"Costa Atlántica, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"lechería",
+        "significado":"finca, especialmente destinada al ordeño de vacas",
+        "ejemplo":null,
+        "región":"Tolima, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"lenguarada",
+        "significado":"expresión ininteligible por defectuosa vocalización",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"liso",
+        "significado":"audaz, desvergonzado",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"lisura",
+        "significado":"desfachatez, desvergüenza",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"liudar",
+        "significado":"fermentar la masa con la levadura",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"llevar de diestro",
+        "significado":"llevar de cabestro a una bestia",
+        "ejemplo":null,
+        "región":"Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"locho",
+        "significado":"dicho de una persona, vaga, perezosa",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Llanos Orientales, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"locro",
+        "significado":"sopa de papas",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"machete",
+        "significado":"trozo de papel con datos que lleva escondido un estudiante a los exámenes",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"machiro",
+        "significado":"dicho de una persona o animal, receloso, mañoso, resabiado",
+        "ejemplo":"un caballo machiro",
+        "región":"Llanos Orientales, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"macoca",
+        "significado":"machete corto y gastado",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"macondo",
+        "significado":"árbol corpulento semejante a la ceiba",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"madrina",
+        "significado":"res o manada mansa que sirve de guía para conducir ganado bravío",
+        "ejemplo":null,
+        "región":"Cundinamarca, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"madrino",
+        "significado":"caballo que sirve de guía a otras bestias",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"maganza",
+        "significado":"pachorra, ociosidad",
+        "ejemplo":null,
+        "región":"Nariño, Costa del Pacífico",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"malamaña",
+        "significado":"predisposición al robo",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"malamañoso",
+        "significado":"que tiene malas costumbres, sobre todo la de hurtar",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"mamado",
+        "significado":"embriagado",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"mamey",
+        "significado":"dicho de una actividad, fácil de hacer",
+        "ejemplo":"la tarea está mamey",
+        "región":"Caldas, Quindío",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"mamona",
+        "significado":"carne de ternera cortada en trozos que se asa en una varilla al aire libre",
+        "ejemplo":null,
+        "región":"Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"mandarria",
+        "significado":"fuerza, vigor, prepotencia",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"mandarriazo",
+        "significado":"golpe fuerte que da una persona a otra",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"manduco",
+        "significado":"palo con que se golpea la ropa cuando se lava",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"mango",
+        "significado":"persona atractiva y bien parecida",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"mango",
+        "significado":"varilla que se usa para tejer",
+        "ejemplo":null,
+        "región":"Caldas",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"manicagado",
+        "significado":"zurdo",
+        "ejemplo":null,
+        "región":"Cundinamarca, Santander, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"maquila",
+        "significado":"porción de miel, panela, sagú, o cantidad de dinero que se da al dueño de un trapiche o molino como retribución por la molienda",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"maranguango",
+        "significado":"hechizo, brebaje para causar maleficios",
+        "ejemplo":"por la calle andan diciendo\/que las mujeres componen\/los jartan de maranguango\/pa burlarse de los hombres",
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"marimonda",
+        "significado":"borrachera",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"marimonda",
+        "significado":"nombre de varias especies de monos pequeños, de larga cola, prensil",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"marimonda",
+        "significado":"pelea, riña",
+        "ejemplo":"se armó la marimonda",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"marramucia",
+        "significado":"engaño, ardid, treta",
+        "ejemplo":"no venga usted con marramucias para que firme el contrato",
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"marramuncia",
+        "significado":"engaño, ardid, treta",
+        "ejemplo":"no venga usted con marramucias para que firme el contrato",
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"marranear",
+        "significado":"estafar, engañar",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"marranear",
+        "significado":"hacer o decir tonterías",
+        "ejemplo":null,
+        "región":"Caldas",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"marrano",
+        "significado":"ingenuo, tonto",
+        "ejemplo":null,
+        "región":"Caldas, Quindío, Risaralda",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"martingala",
+        "significado":"correa que forma parte del apero de un caballo",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"marullo",
+        "significado":"multitud de personas o de animales",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"matado",
+        "significado":"fascinado o encantado con algo",
+        "ejemplo":"está matada con su nuevo computador",
+        "región":"Antioquia, Caldas",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"mazamorra",
+        "significado":"ulceración de las pezuñas del ganado vacuno, causada por infección microbiana",
+        "ejemplo":null,
+        "región":"Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"mazamorra",
+        "significado":"ulceración de los pies causada por la penetración de larvas del anquilostoma duodenal",
+        "ejemplo":null,
+        "región":"Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"mañoco",
+        "significado":"yuca molida, deshidratada, tamizada, tostada al fuego y expuesta luego al sol",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"mecha",
+        "significado":"utensilio de aseo para limpiar el piso que consta de un palo y tiras de de lana o tela en su parte inferior",
+        "ejemplo":"pasa la mecha que está sucia la cocina",
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"mejengue",
+        "significado":"vigor, fuerza",
+        "ejemplo":"este joven es de mucho mejengue",
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"mejengue",
+        "significado":"dinero",
+        "ejemplo":"estoy sin mejengue",
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"menso",
+        "significado":"tonto",
+        "ejemplo":null,
+        "región":"Boyacá, Costa Atlántica, Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"meterle julepe",
+        "significado":"a alguien . urgirlo, excitarlo",
+        "ejemplo":null,
+        "región":"Antioquia, Costa Atlántica, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"michicato",
+        "significado":"cicatero, tacaño",
+        "ejemplo":null,
+        "región":"Cundinamarca, Nariño, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"michingo",
+        "significado":"gato",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"mielmesabe",
+        "significado":"dulce de leche cuajada y hervida con panela",
+        "ejemplo":null,
+        "región":"Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"mijarra",
+        "significado":"palo inclinado que entra por un extremo en la parte superior del eje del trapiche, y por el otro se ata a las bestias, que tiran de él para que las mazas muelan la caña",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"mincha",
+        "significado":"porción muy pequeña de algo",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"minga",
+        "significado":"trabajos realizados en comunidad, especialmente en agricultura y construcción",
+        "ejemplo":null,
+        "región":"Cauca, Nariño, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"miquingo",
+        "significado":"pequeño, apocado, mezquino",
+        "ejemplo":"juan se mostró miquingo con su regalo",
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"mocho",
+        "significado":"herramienta desgastada",
+        "ejemplo":null,
+        "región":"Caldas",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"mosquear",
+        "significado":"dicho del gallo de pelea cuando está ciego, tirar picotazos al aire como si cogiera moscas",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"mote",
+        "significado":"sopa de ñame con queso",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"motete",
+        "significado":"atado, envoltorio, paquete, especialmente de ropa",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"murriar",
+        "significado":"impregnar una superficie con cemento muy diluido en agua",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"musengue",
+        "significado":"especie de espantamoscas fabricado con un cabo de palma deshilado, preferentemente del cogollo de la palma de vino",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"muñeco",
+        "significado":"cadáver",
+        "ejemplo":null,
+        "región":"Antioquia",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"muñequera",
+        "significado":"pelea a puños",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"música guasca",
+        "significado":"género popular de ritmo sencillo, similar al corrido o ranchera",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"naco",
+        "significado":"puré de papa",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"nalguear",
+        "significado":"golpear a una persona en las nalgas",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"niña",
+        "significado":"forma de tratamiento de respeto y afecto que se usa con las mujeres, especialmente mayores",
+        "ejemplo":"niña luisa, ya llegué",
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"nochero",
+        "significado":"mesa de noche",
+        "ejemplo":null,
+        "región":"Nariño, Chocó",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"ojo de pescado",
+        "significado":"carnosidad de la piel que se produce por un virus",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"onceadero",
+        "significado":"salón de onces",
+        "ejemplo":null,
+        "región":"Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"opa",
+        "significado":"voz para saludar o llamar la atención",
+        "ejemplo":null,
+        "región":"Huila, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"oste",
+        "significado":"voz que emplean los campesinos para detener a los bueyes de trabajo",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"pan de agua",
+        "significado":"variedad de pan blanco con poco aliño",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"panocha",
+        "significado":"empanada pequeña hecha con arequipe y rellena con coco rallado",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"panocha",
+        "significado":"arepa grande hecha de maíz tierno (choclo) que se envuelve en hojas de plátano y se asa en la brasa",
+        "ejemplo":null,
+        "región":"Antioquia, Caldas, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"panocha",
+        "significado":"pan grande, relleno de dulce y queso",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"papelero",
+        "significado":"simulador",
+        "ejemplo":"no le creas que está enferma porque es muy papelera",
+        "región":"Santander, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"papujo",
+        "significado":"dicho de una persona, que es de baja estatura y de cuello corto",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"papujo",
+        "significado":"dicho de una persona, que tiene abultados los párpados",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"parva",
+        "significado":"conjunto de galletas, pasteles y otras golosinas que se toman con las comidas",
+        "ejemplo":null,
+        "región":"Antioquia, Caldas",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"pasar aceite",
+        "significado":"dicho de una persona de edad avanzada, encontrarse en mal estado de salud",
+        "ejemplo":"mi abuelo ya está pasando aceite",
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"patilla",
+        "significado":"parte trasera superior de la canoa, sobre la cual se coloca el patrón o piloto",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Chocó",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"patuleco",
+        "significado":"que tiene las piernas torcidas",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Nariño, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"patuleto",
+        "significado":"que tiene las piernas torcidas",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Nariño, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"pechichón",
+        "significado":"consentido, mimado",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"pelanga",
+        "significado":"plato popular hecho con vísceras de res",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"perico",
+        "significado":"café con leche servido en taza pequeña",
+        "ejemplo":null,
+        "región":"Cundinamarca, Boyacá",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"perrata",
+        "significado":"plebe",
+        "ejemplo":"la perrata se sublevó",
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"perrero",
+        "significado":"látigo de cuero sujeto al extremo de una vara de un metro de longitud, aproximadamente",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"peto",
+        "significado":"alimento hecho con granos enteros de maíz cocido que se sirve con leche y panela",
+        "ejemplo":null,
+        "región":"Boyacá, Costa Atlántica, Cundinamarca, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"picha",
+        "significado":"secreción de los párpados que se cuaja en el borde de estos",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"piches",
+        "significado":"secreción de los párpados que se cuaja en el borde de estos",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"pichicato",
+        "significado":"cicatero, tacaño",
+        "ejemplo":null,
+        "región":"Cundinamarca, Nariño, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"pichingo",
+        "significado":"pájaro pequeño, especialmente el gorrión implume",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"picho",
+        "significado":"podrido",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"pichoso",
+        "significado":"que tiene lagañas en los ojos",
+        "ejemplo":null,
+        "región":"Cundinamarca, Nariño, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"pichurreo",
+        "significado":"venta al menudeo, negocio de poca venta",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"picurearse",
+        "significado":"escaparse, fugarse",
+        "ejemplo":null,
+        "región":"Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"pingo",
+        "significado":"fórmula de tratamiento de confianza entre amigos",
+        "ejemplo":"hola, pingo",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"pinta",
+        "significado":"vestimenta",
+        "ejemplo":"qué pinta me pongo para el coctel",
+        "región":"Cundinamarca, Nariño, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"pioja",
+        "significado":"espuela para picar las caballerías",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"pioja",
+        "significado":"espolón de gallo que se pone al peleador cuando este tiene las espuelas muy cortas o dañadas",
+        "ejemplo":null,
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"pipocho",
+        "significado":"lleno, repleto",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"piponcho",
+        "significado":"lleno, repleto",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"piqueria",
+        "significado":"porfía, rivalidad, emulación entre dos copleros o repentistas",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"piste",
+        "significado":"maíz quebrado y no reducido a harina que, mojado y puesto en reposo, se fermenta y sirve para hacer la mazamorra de piste",
+        "ejemplo":"de esta tierra me destierran\/por no darme mazamorra;\/ que el gallo les coma el piste\/y el puerco les rompa l'olla",
+        "región":"Cundinamarca, Llanos Orientales, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"pite",
+        "significado":"juego infantil con monedas",
+        "ejemplo":null,
+        "región":"Cundinamarca, Nariño, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"piu",
+        "significado":"voz que, repetida, se usa para llamar a las gallinas",
+        "ejemplo":null,
+        "región":"Cundinamarca, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"planta de la mano",
+        "significado":"palma de la mano",
+        "ejemplo":null,
+        "región":"Cundinamarca, Santander, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"popocho",
+        "significado":"variedad de plátano",
+        "ejemplo":null,
+        "región":"Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"popora",
+        "significado":"chichón, tumor",
+        "ejemplo":"juan tiene una popora en la pierna",
+        "región":"Cundinamarca, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"poteca",
+        "significado":"puré de ahuyama, arracacha o papa",
+        "ejemplo":null,
+        "región":"Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"poteca",
+        "significado":"ahuyama",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"potreraje",
+        "significado":"canon de arrendamiento que se paga al propietario de un potrero",
+        "ejemplo":null,
+        "región":"Caldas, Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"pucho",
+        "significado":"chato, persona de nariz corta",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"pupo",
+        "significado":"ombligo",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"puñera",
+        "significado":"serie de puñetazos",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"quejereque",
+        "significado":"que se queja por todo",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"querneja",
+        "significado":"trenza del cabello de una mujer",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"quicato",
+        "significado":"dicho de un niño o adolescente, mal educado, entrometido",
+        "ejemplo":"ese muchacho es muy quicato",
+        "región":"Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"quicha",
+        "significado":"diarrea",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"quijo",
+        "significado":"clase de granadilla de corteza suave",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"quimbolito",
+        "significado":"pequeño envuelto, hecho en una masa similar a la del ponqué, que se envuelve en hoja de plátano y se cocina al vapor",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"quingo",
+        "significado":"camino con curvas",
+        "ejemplo":null,
+        "región":"Antioquia, Nariño, Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"rambar",
+        "significado":"rapar",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"rancharse",
+        "significado":"alojarse en un lugar, por lo general sin consentimiento de los dueños",
+        "ejemplo":null,
+        "región":"Boyacá",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"randanga",
+        "significado":"serie o montón de personas, animales o cosas",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"resbaladera",
+        "significado":"refresco que se prepara con arroz molido, agua, azúcar y esencia de rosas",
+        "ejemplo":null,
+        "región":"Bolívar",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"riche",
+        "significado":"papa pequeña",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"riego",
+        "significado":"porción de tierra húmeda destinada a una sementera",
+        "ejemplo":"tengo un riego de papa",
+        "región":"Boyacá, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"rila",
+        "significado":"carne blanca y fibrosa de res vacuna",
+        "ejemplo":null,
+        "región":"Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"rondador",
+        "significado":"zampoña, instrumento musical parecido a la flauta, con varios tubos de caña escalonados",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"rumbo",
+        "significado":"herrumbre, óxido que se forma en las vasijas y objetos de cobre cuando no se usan",
+        "ejemplo":null,
+        "región":"Cundinamarca, Nariño, Santander, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"runchera",
+        "significado":"lugar deteriorado, en malas condiciones",
+        "ejemplo":"ese hotel es una runchera",
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"ruyas",
+        "significado":"pequeños rollos de harina de maíz, con los que se hace sopa",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Norte de Santander, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"saber",
+        "significado":"acostumbrar",
+        "ejemplo":"este amigo sabe madrugar todos los días",
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"sampedrear",
+        "significado":"divertirse en la fiesta de san pedro, el 29 de junio",
+        "ejemplo":null,
+        "región":"Cundinamarca, Huila, Llanos Orientales, Santander, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"sanjuanear",
+        "significado":"divertirse en la fiesta de san juan, el 24 de junio",
+        "ejemplo":"san juan y la magdalena\/se jueron a sanjuaniar;\/san juan le pegó un moquete\/que la hizo patiboliar",
+        "región":"Huila, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"saporrondó",
+        "significado":"danza folclórica de la costa pacífica",
+        "ejemplo":null,
+        "región":"Costa del Pacífico",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"sebucán",
+        "significado":"colador indígena, fabricado de hojas de palma, para extraer el jugo venenoso de la yuca brava",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"ser cachas",
+        "significado":"ser dos personas muy buenos amigos",
+        "ejemplo":null,
+        "región":"Caldas, Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"ser un número",
+        "significado":"expresión indicativa de que alguien es muy chistoso, llamativo, grotesco, ridículo",
+        "ejemplo":"juan con tragos es un número",
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"serenar",
+        "significado":"lloviznar",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"sereno",
+        "significado":"llovizna",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"siembro",
+        "significado":"porción de tierra sembrada",
+        "ejemplo":"un siembro de papa",
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"sobernal",
+        "significado":"sobornal, lo que se añade a una carga regular",
+        "ejemplo":null,
+        "región":"Cundinamarca, Nariño, Tolima, Caldas",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"sobijo",
+        "significado":"masaje que se da sobre una parte del cuerpo",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Cundinamarca, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"sucumba",
+        "significado":"agua de panela",
+        "ejemplo":null,
+        "región":"Huila",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"sumercé",
+        "significado":"forma de tratamiento empleada como expresión cariñosa y respetuosa, especialmente con la familia",
+        "ejemplo":null,
+        "región":"Cundinamarca, Boyacá",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"surco",
+        "significado":"tierra que levanta el arado entre una y otra hendedura",
+        "ejemplo":"levante más el surco para que no se pudra la papa",
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"surumangué",
+        "significado":"baile popular con aire de torbellino, en que se entonan estrofas especiales y se hacen algunas figuras al mismo tiempo que se porta un huso para hilar lana",
+        "ejemplo":"este es el surumanguito\/y este es el surumanguito\/y este es el surumangué,\/que lo bailan con la mano,\/que lo bailan con el pie",
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"susunga",
+        "significado":"utensilio que se emplea para sacar el agua o la cachaza en los trapiches",
+        "ejemplo":null,
+        "región":"Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"tableado",
+        "significado":"abundante, por ejemplo, comida",
+        "ejemplo":null,
+        "región":"Antioquia, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"taco",
+        "significado":"trancón, embotellamiento de tránsito",
+        "ejemplo":null,
+        "región":"Antioquia",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"tanganazo",
+        "significado":"trago grande de ron u otro licor, ingerido de una sola vez",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"tapetusa",
+        "significado":"aguardiente de contrabando y de muy mala calidad",
+        "ejemplo":null,
+        "región":"Antioquia, Costa Atlántica, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"taquiara",
+        "significado":"faja que usan a veces los indígenas en la cabeza como adorno",
+        "ejemplo":null,
+        "región":"La Guajira",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"tenerle azar",
+        "significado":"a algo o a alguien . tenerle uno desconfianza mezclada con temor a algo o alguien",
+        "ejemplo":"como a yo me parecía cosa diabólica siempre les tenía azar y recelo",
+        "región":"Antioquia",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"toche",
+        "significado":"tonto, bobo",
+        "ejemplo":"no sea toche",
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"toche",
+        "significado":"miembro viril",
+        "ejemplo":null,
+        "región":"Cundinamarca, Norte de Santander, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"topocho",
+        "significado":"variedad de plátano pequeño",
+        "ejemplo":null,
+        "región":"Cundinamarca, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"toy",
+        "significado":"voz que, repetida, se usa para llamar a las reses vacunas",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Llanos Orientales, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"trapeador",
+        "significado":"utensilio de aseo para limpiar el piso que consta de un palo y tiras de lana o tela en su parte inferior",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"trapero",
+        "significado":"utensilio de aseo para limpiar el piso que consta de un palo y tiras de lana o tela en su parte inferior",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"trinche",
+        "significado":"tenedor de mesa",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"troñuño",
+        "significado":"avaro, mezquino, tacaño",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"truncho",
+        "significado":"res o bestia sin cola",
+        "ejemplo":null,
+        "región":"Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"truñuño",
+        "significado":"avaro, mezquino, tacaño",
+        "ejemplo":null,
+        "región":"Costa Atlántica",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"turra",
+        "significado":"dicho de una persona, de baja estatura",
+        "ejemplo":null,
+        "región":"Norte de Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"uisa",
+        "significado":"voz que se emplea para espantar a las gallinas",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Llanos Orientales, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"uiste",
+        "significado":"voz que se emplea para espantar animales como caballos, asnos y vacas",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"uste",
+        "significado":"voz que emplean los campesinos para detener a los bueyes de trabajo",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"vallado",
+        "significado":"zanja de drenaje que divide un terreno",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"verriondo",
+        "significado":"persona mal intencionada",
+        "ejemplo":null,
+        "región":"Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"volantón",
+        "significado":"dicho de una muchacha, ligera en su comportamiento, especialmente con los muchachos",
+        "ejemplo":null,
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"volantón",
+        "significado":"dicho de una persona, que se halla entre la adolescencia y juventud",
+        "ejemplo":"cuando estaba volantón oí referir el cuento",
+        "región":"Costa Atlántica, Cundinamarca, Santander, Tolima",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"yagé",
+        "significado":"bebida preparada con un bejuco y que usan los curanderos para efectos de alucinación y adivinanza",
+        "ejemplo":null,
+        "región":"Amazonas",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"yare",
+        "significado":"jugo venenoso de una especie de yuca, que contiene ácido cianhídrico",
+        "ejemplo":null,
+        "región":"Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"yerbazo",
+        "significado":"pócima perjudicial para la salud que a veces dan los yerbateros",
+        "ejemplo":null,
+        "región":"Boyacá, Cundinamarca, Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"yipao",
+        "significado":"vehículo pequeño, carpado, utilizado para transportar personas, animales y bultos de regular tamaño",
+        "ejemplo":"yo más bien me voy en cachilapo",
+        "región":"Llanos Orientales",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"zalamero",
+        "significado":"dicho de una persona, quisquillosa con la comida",
+        "ejemplo":null,
+        "región":"Caldas, Quindío, Risaralda",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"zaperoco",
+        "significado":"zafarrancho, desorden",
+        "ejemplo":null,
+        "región":"Valle del Cauca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"zumbar",
+        "significado":"empujar",
+        "ejemplo":"no me zumbe",
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"zumbón",
+        "significado":"empujón",
+        "ejemplo":"me metió un zumbón",
+        "región":"Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"zurullo",
+        "significado":"enredo o maraña que resulta de trabarse entre sí desordenadamente los hilos u otras cosas flexibles",
+        "ejemplo":null,
+        "región":"Cundinamarca, Santander",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"íngrimo",
+        "significado":"solo, solitario, abandonado, sin compañía",
+        "ejemplo":"íngrimo y solo",
+        "región":"Cundinamarca",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"ñapanga",
+        "significado":"mujer joven y atractiva",
+        "ejemplo":null,
+        "región":"Caldas",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"ñapanga",
+        "significado":"mujer del pueblo que suele llevar el traje típico de la región",
+        "ejemplo":null,
+        "región":"Cauca, Valle del Cauca, Nariño",
+        "Fuente":"BDC"
+    },
+    {
+        "modismo":"ñóñora",
+        "significado":"úlcera crónica y purulenta, de tamaño grande, que generalmente hiede y suele estar oculta",
+        "ejemplo":null,
+        "región":"Costa Atlántica, Tolima",
+        "Fuente":"BDC"
+    }
+]
