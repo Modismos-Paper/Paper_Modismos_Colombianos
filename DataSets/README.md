@@ -1,8 +1,8 @@
-# Sistema de Generación y Gestión de Datasets de Modismos Colombianos
+# Colombian Idioms Dataset Generation and Management System
 
-Sistema integral para la extracción, procesamiento y consolidación de modismos colombianos provenientes de dos fuentes lexicográficas principales.
+Comprehensive system for extraction, processing, and consolidation of Colombian idioms from two main lexicographic sources.
 
-## Estructura del Proyecto
+## Project Structure
 
 ```
 DataSet/
@@ -28,76 +28,76 @@ DataSet/
 └── DataSets_Analysis.ipynb
 ```
 
-## Fuentes de Datos
+## Data Sources
 
-### BDC (Breve Diccionario de Colombianismos)
+### BDC (Brief Dictionary of Colombianisms)
 
-Extracción y procesamiento de modismos desde formato PDF mediante la biblioteca `marker`. Genera archivos de texto plano y metadatos asociados.
+Extraction and processing of idioms from PDF format using the `marker` library. Generates plain text files and associated metadata.
 
-**Módulo**: `BDC/DB/ConvertPdf.py`
+**Module**: `BDC/DB/ConvertPdf.py`
 
-### DICOL (Diccionario de Colombianismos)
+### DICOL (Dictionary of Colombianisms)
 
-Acceso mediante API REST a la base de datos lexicográfica del Instituto Caro y Cuervo. Implementa capa de repositorio con soporte para almacenamiento dual (remoto/local).
+Access via REST API to the lexicographic database of Instituto Caro y Cuervo. Implements repository layer with dual storage support (remote/local).
 
-**Módulo**: `DICOL/DB/DictionaryRepository.js`
+**Module**: `DICOL/DB/DictionaryRepository.js`
 
-## Datasets Generados
+## Generated Datasets
 
-El script `createDataSet.py` genera cinco variantes del dataset consolidado:
+The `createDataSet.py` script generates five variants of the consolidated dataset:
 
 ### 1. DataSet.json
-Dataset completo con todas las entradas de ambas fuentes.
+Complete dataset with all entries from both sources.
 
 ### 2. DataSet_ConEjemplos.json
-Subconjunto que incluye únicamente modismos con ejemplo de uso disponible.
+Subset that includes only idioms with available usage examples.
 
 ### 3. DataSet_ConRegión.json
-Modismos con información geográfica (región de uso) definida.
+Idioms with defined geographic information (region of use).
 
 ### 4. DataSet_PrimeraOcurrencia.json
-Dataset deduplicado con una única entrada por modismo.
+Deduplicated dataset with a single entry per idiom.
 
-**Criterios de priorización**:
-- Fuente BDC sobre DICOL
-- Entradas con región definida sobre entradas sin región
+**Prioritization criteria**:
+- BDC source over DICOL
+- Entries with defined region over entries without region
 
 ### 5. DataSet_PrimeraOcurrencia_ConEjemplo.json
-Dataset deduplicado que incluye únicamente modismos con ejemplo de uso.
+Deduplicated dataset that includes only idioms with usage examples.
 
-## Estructura de Registros
+## Record Structure
 
-Cada entrada contiene los siguientes campos:
+Each entry contains the following fields:
 
-- `modismo`: Expresión idiomática
-- `significado`: Definición lexicográfica
-- `ejemplo`: Contexto de uso (opcional)
-- `región`: Área geográfica de uso (opcional)
-- `Fuente`: Origen del registro (BDC/DICOL)
+- `modismo`: Idiomatic expression
+- `significado`: Lexicographic definition
+- `ejemplo`: Usage context (optional)
+- `región`: Geographic area of use (optional)
+- `Fuente`: Record source (BDC/DICOL)
 
-## Procesamiento de Datos
+## Data Processing
 
-### Limpieza
+### Cleaning
 
-- Eliminación de entradas sin definición válida
-- Normalización de valores ausentes (`np.nan`)
-- Reemplazo de cadenas vacías por valores nulos
+- Removal of entries without valid definition
+- Normalization of missing values (`np.nan`)
+- Replacement of empty strings with null values
 
-### Consolidación
+### Consolidation
 
-Los datasets se ordenan alfabéticamente por modismo y se combinan mediante concatenación vertical con reindexado completo.
+Datasets are sorted alphabetically by idiom and combined through vertical concatenation with complete reindexing.
 
-### Deduplicación
+### Deduplication
 
-La estrategia de primera ocurrencia utiliza ordenamiento multinivel para garantizar consistencia en la selección de registros únicos.
+The first occurrence strategy uses multi-level sorting to ensure consistency in selecting unique records.
 
-## Uso
+## Usage
 
 ```python
 python createDataSet.py
 ```
 
-El script genera automáticamente los cinco archivos JSON en el directorio `Complete_DataSets/`.
+The script automatically generates the five JSON files in the `Complete_DataSets/` directory.
 
 ## Dependencias
 
